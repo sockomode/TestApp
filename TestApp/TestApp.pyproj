@@ -28,6 +28,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="templates\home.html" />
+    <Content Include="templates\IMG_0896.jpg" />
     <Content Include="templates\match.html" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
